@@ -57,9 +57,4 @@
 	printf("%.0f\n",tien); 
 	   
 	return 0;  
- } Ho ten : PhanNgocBaoTran 
-* MSSV : 6751071080 
-* Lop : ..........
-* De so : 2 Cau: 1
-* Cam doan: Bai lam do em tu thuc hien, khong su dung tai lieu,
-* Internet, cong cu AI hay tu hoan thien code.
+ } 
