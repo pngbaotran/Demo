@@ -55,6 +55,7 @@
 		 
 	}
 	printf("%.0f\n",tien); 
-	   
+	
+	printf("test");
 	return 0;  
  } 
